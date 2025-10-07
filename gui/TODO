@@ -1,0 +1,4 @@
+Finish TerminalView and TerminalViewController port, so that TerminalViewController holds the settings used by TerminalView
+
+
+Export GUIManager view settings to the view class

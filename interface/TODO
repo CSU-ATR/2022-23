@@ -1,0 +1,3 @@
+Decouple Fetch_data and send_command in PNAController
+
+Rework PNAController
